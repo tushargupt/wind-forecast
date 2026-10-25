@@ -4,7 +4,7 @@ Web app for a UK energy utility's day-ahead buying team. It shows the wind forec
 available when the day-ahead decision had to be made, and quantifies how accurate that
 forecast has been (national wind, Elexon FUELHH actuals and WINDFOR forecasts, January 2026).
 
-**Live app:** _add Vercel/Heroku/Render link here_
+**Live app:** https://wind-forecast-seven.vercel.app
 **AI tools:** this project was built with help from Claude (Anthropic) for code, analysis design and documentation.
 
 ## Key idea
